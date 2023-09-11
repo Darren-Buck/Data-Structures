@@ -1,0 +1,5 @@
+make: RuntimeTable.c
+		gcc -c RuntimeTable.c -o RuntimeTable
+    
+clean:
+		rm RuntimeTable
